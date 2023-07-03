@@ -2,7 +2,7 @@
 
 👋 Hello this is team 2 from Pijar Camp Batch 10
 
-Here's API For Ankasa Ticketing 
+Here's API For Ankasa Ticketing (see what ankasa ticketing from ankasa-ticketing repo in this account)
 You can access with this link => 
 https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app
 
