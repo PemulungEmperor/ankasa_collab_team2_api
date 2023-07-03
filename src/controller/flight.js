@@ -1,6 +1,6 @@
 // import form user models
 const flightModel = require("../models/flight");
-const cloudinary = require("../utils/cloudinary");
+// const cloudinary = require("../utils/cloudinary");
 
 const flightController = {
   allFlight: (req, res) => {
