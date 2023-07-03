@@ -119,6 +119,7 @@ const userController = {
       return res.status(200).json({
         success: true,
         message: "update successful",
+        photoPath: result.secure_url,
       });
     } catch (err) {
       console.log(err);
