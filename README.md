@@ -76,7 +76,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### Update user
 
-```http
+```
   PUT /api/update/profile/{id}
 ```
 
