@@ -7,7 +7,6 @@ You can access with this link =>
 https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app
 
 
-
 If you clone this repo don't forget to install node modules / packages inside the project :
 
 ```
@@ -21,12 +20,11 @@ And to run this project use
 ```
 
 
-
 ## API Reference
 
 #### Get all users 📄
 
-```http
+```
   GET /api/users
 ```
 
@@ -38,7 +36,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### Get specific user
 
-```http
+```
   GET /api/users/${id}
 ```
 
@@ -48,7 +46,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### Login
 
-```http
+```
   POST /api/login
 ```
 
@@ -58,7 +56,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### Register
 
-```http
+```
   POST /api/register
 ```
 
@@ -68,7 +66,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### Update user image
 
-```http
+```
   PUT /api/update-img/{id}
 ```
 
@@ -88,7 +86,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### See all flight
 
-```http
+```
   GET /api/flight
 ```
 
@@ -98,7 +96,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### add flight
 
-```http
+```
   POST /api/add-flight
 ```
 
@@ -108,7 +106,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### edit flight
 
-```http
+```
   PUT /api/edit-flight/{$id}
 ```
 
@@ -118,7 +116,7 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### delete flight
 
-```http
+```
   DELETE /api/delete-flight/{$id}
 ```
 
@@ -128,15 +126,13 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 
 #### search flight
 
-```http
+```
   GET /api/search/{destination}
 ```
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | destination| `string` |Search by destination flight code |
-
-
 
 
 
