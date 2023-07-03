@@ -5,7 +5,7 @@ const response = require("../helper/response");
 const secretToken = require("../helper/secretToken");
 const jwt = require("jsonwebtoken");
 const dataToken = process.env.JWT_SECRET;
-// const cloudinary = require("../utils/cloudinary");
+const cloudinary = require("../utils/cloudinary");
 
 const userController = {
   getAllUser: async (req, res) => {
