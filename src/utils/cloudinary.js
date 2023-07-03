@@ -1,4 +1,4 @@
-const cloudinary = require("cloudinary").v2;
+const cloudinary = require("cloudinary");
 cloudinary.config({
   cloud_name: "dwc1snd78",
   api_key: "534973426169124",
