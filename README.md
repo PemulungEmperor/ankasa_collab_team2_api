@@ -32,7 +32,7 @@ And to run this project use
 | :-------- | :------- | :------------------------- |
 | | `string` | You can check all users from ur DB |
 
-Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/users
+Execution : https://ankasa-collab-team2-api.vercel.app/users
 
 #### Get specific user
 
