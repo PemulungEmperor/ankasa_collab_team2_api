@@ -1,4 +1,4 @@
-# Ankasa Ticketing
+# Ankasa Ticketing API
 
 👋 Hello this is team 2 from Pijar Camp Batch 10
 
