@@ -8,9 +8,9 @@ https://ankasa-collab-team2-api.vercel.app/
 
 ## Technologies
 
-- [![AGPL License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- [![AGPL License](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-- [![AGPL License](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![AGPL License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ![AGPL License](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+- ![AGPL License](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 If you clone this repo don't forget to install node modules / packages inside the project :
 
