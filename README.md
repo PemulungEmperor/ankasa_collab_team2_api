@@ -142,8 +142,15 @@ Execution : https://ankasa-collab-team2-api.vercel.app/users
 | destination| `string` |Search by destination flight code |
 
 
+## Contributor
 
-## Tech Stack
+Back End : 
+- [@iqbalhafid99](https://github.com/iqbalhafid99) 
 
-**Server:** Node, Express
+Front End :
+- [@assyifaptrs](https://github.com/assyifaptrs)
+- [@Atiowhy](https://github.com/Atiowhy) 
+
+PO 
+- [@PemulungEmperor](https://github.com/PemulungEmperor) 
 
