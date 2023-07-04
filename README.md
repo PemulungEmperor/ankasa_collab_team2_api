@@ -4,7 +4,7 @@
 
 Here's API For Ankasa Ticketing (see what ankasa ticketing from ankasa-ticketing repo in this account)
 You can access with this link => 
-https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app
+https://ankasa-collab-team2-api.vercel.app/
 
 
 If you clone this repo don't forget to install node modules / packages inside the project :
