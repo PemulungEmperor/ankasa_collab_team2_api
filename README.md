@@ -1,11 +1,18 @@
-# Ankasa Ticketing
+# Ankasa Ticketing API
 
 👋 Hello this is team 2 from Pijar Camp Batch 10
 
 Here's API For Ankasa Ticketing (see what ankasa ticketing from ankasa-ticketing repo in this account)
-You can access with this link => 
+You can access with this link :
 https://ankasa-collab-team2-api.vercel.app/
 
+## Technologies
+
+![AGPL License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![AGPL License](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+![AGPL License](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 If you clone this repo don't forget to install node modules / packages inside the project :
 
@@ -32,7 +39,7 @@ And to run this project use
 | :-------- | :------- | :------------------------- |
 | | `string` | You can check all users from ur DB |
 
-Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/users
+Execution : https://ankasa-collab-team2-api.vercel.app/users
 
 #### Get specific user
 
@@ -135,8 +142,15 @@ Execution : https://ankasa-collab-team2-d14k1exhj-pemulungemperor.vercel.app/use
 | destination| `string` |Search by destination flight code |
 
 
+## Contributor
 
-## Tech Stack
+Back End : 
+- [@iqbalhafid99](https://github.com/iqbalhafid99) 
 
-**Server:** Node, Express
+Front End :
+- [@assyifaptrs](https://github.com/assyifaptrs)
+- [@Atiowhy](https://github.com/Atiowhy) 
+
+PO 
+- [@PemulungEmperor](https://github.com/PemulungEmperor) 
 
